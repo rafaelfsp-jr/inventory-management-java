@@ -4,16 +4,16 @@
 A basic console-based Inventory Management System built with Java using Object-Oriented Programming (OOP) principles.
 The mainly focus is simulate the basic invetory operations.
 
-## ✨ Funcionalities
+## ✨ Functionalities
 
 * 🆕**Product creation:** Creates a new product with name, price and barcode.
-* ✏️**Addition and updates invetory:** Allows add a new quantity or uptade an existing prodcut, using the name or de barcode.
+* ✏️**Addition and updates invetory:** Allows adding a new quantity or update an existing product, using the name or the barcode.
 * 🔎**Listing:** Displays all products currently in stock.
 * 📋**Interative menu:** Console interface (CLI) for user interaction.
 
 ## 🏗️ Project Structure
 
-The project is divided in three mainly classes following the Separation of Concerns (SoC) principle.
+The project is divided into three main classes following the Separation of Concerns (SoC) principle.
 
 * **`Inventory.java`**: Represents the **Product/Item entity** in the stock.
 * **`StockManager.java`**: Responsible for **Business Logic**, managing the collection of `Inventory` objects.
