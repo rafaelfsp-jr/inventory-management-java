@@ -1,5 +1,5 @@
 # 📦 Inventory Management System
-[![Project Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)]()
+[![Project Status](https://img.shields.io/badge/Status-In%20Development-yellow)]()
 
 A basic console-based Inventory Management System built with Java using Object-Oriented Programming (OOP) principles.
 The mainly focus is simulate the basic invetory operations.
